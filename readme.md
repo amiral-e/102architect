@@ -1,7 +1,7 @@
 # 102architect
 
 ## Description
-Maths 102architect Epitech Teck1
+Maths | 102architect Epitech Teck1
 
 You are working on a homeplanning software for an architecture firm. The goal is to simplify the process of
 drawing the plan, and to integrate various features such as scale management, changing the point of view,
